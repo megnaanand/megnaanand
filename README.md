@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on using machine learning to automate treatments for people with mild cognitive impairments. 
 - 🌱 I’m currently learning about physical applications of machine learning and planning on taking courses this fall in statistical learning. 
 - 👯 I’m looking to collaborate on projects to use machine learning to find ways to improve accessibility in our world.
-- 🤔 I’m looking for help with finding New Grad 2024 positions! 
+- 🤔 I’m looking for New Grad 2024 positions! 
 - 📫 How to reach me:
   - Email: megna.anand23@gmail.com
   - LinkedIn: www.linkedin.com/in/megna-anand
