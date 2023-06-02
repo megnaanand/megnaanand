@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋! My name is Megna and I am currently a Math-CS major graduating in June 2023, and a future Machine Learning and Data Science Masters student at UC San Diego starting September 2023. 
 
-<!--
-**megnaanand/megnaanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on using machine learning to automate treatments for people with mild cognitive impairments. 
+- 🌱 I’m currently learning about physical applications of machine learning and planning on taking courses this fall in statistical learning. 
+- 👯 I’m looking to collaborate on projects to use machine learning to find ways to improve accessibility in our world.
+- 🤔 I’m looking for help with finding New Grad 2024 positions! 
+- 📫 How to reach me: 
+Email: megna.anand23@gmail.com
+LinkedIn: www.linkedin.com/in/megna-anand
+- 😄 Pronouns: she/hers
+- ⚡ Fun fact: I love travelling and in the past year I've gone to Thailand and am going to the Balkans later this summer! Always appreciate recommendations on where to go next :) 
