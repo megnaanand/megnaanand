@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Megna and I am a Machine Learning and Data Science Masters student at UC San Diego.
+### Hi there! My name is Megna 👋
 
 - 🔭 I’m currently working on using machine learning to automate treatments for people with mild cognitive impairments. 
 - 🌱 I’m currently learning about physical applications of machine learning and planning on taking courses this fall in statistical learning. 
